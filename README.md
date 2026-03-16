@@ -52,11 +52,3 @@ A web application to track visited countries for multiple users, built with Node
 
 - `users`: Stores user information (id, name, color)
 - `visited_countries`: Stores visited countries per user (id, country_code, user_id)
-
-## Contributing
-
-Feel free to submit issues and pull requests.
-
-## License
-
-MIT License
